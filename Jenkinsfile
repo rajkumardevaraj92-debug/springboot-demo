@@ -11,7 +11,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/springboot-demo.git'
+                git 'https://github.com/rajkumardevaraj92-debug/springboot-demo.git'
             }
         }
 
